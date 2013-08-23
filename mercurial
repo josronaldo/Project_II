@@ -2,5 +2,12 @@ História:
 Mercurial é um sistema de controle de versão da plataforma para desenvolvedores de software . É essencialmente implementado usando a linguagem de programação Python , mas inclui uma implementação do binário dif escrita em C . Mercurial foi originalmente escrito para rodar em Linux. Foi adaptado para o Windows , Mac OS X ea maioria dos outros sistemas Unix . Mercurial é essencialmente um programa de linha de comando . Todas as operações Mercurial são invocados como opções dadas ao seu programa de motorista hg (cujo nome refere-se ao símbolo químico do mercúrio ).
 As principais metas de desenvolvimento Mercurial incluem alta performance e escalabilidade, totalmente distribuído desenvolvimento sem a necessidade de um servidor; robusto gerenciamento de arquivos tanto texto e binário , e capacidades avançadas de ramificação e integração, ao mesmo tempo mantendo a simplicidade conceitual. 1 inclui interface web integrada.
 O criador e principal desenvolvedor do Mercurial é Matt Mackall . O código fonte está disponível sob os termos da licença GNU GPL versão 2, que classifica Mercurial como software livre .
-Mercurial é uma ferramenta multi-plataforma de controle de versão distribuído para desenvolvedores de software. O sistema é implementado principalmente em Python, porém o utilitário binário diff foi escrito em C. Mercurial foi inicialmente escrito para rodar sobre Linux, mas foi portado para Windows, Mac OS X, e a maioria dos outros sistemas UNIX. Mercurial é principalmente um programa de linha de comando. Todas operações do Mercurial são chamadas através de palavras chave de opções para o programa controlador hg, uma referência para o símbolo químico do elemento Mercúrio.
+
+Mercurial é uma ferramenta multi-plataforma de controle de versão distribuído para desenvolvedores de software.
+O sistema é implementado principalmente em Python, porém o utilitário binário diff foi escrito em C.
+Mercurial foi inicialmente escrito para rodar sobre Linux, mas foi portado para Windows, Mac OS X, e a maioria dos outros 
+sistemas UNIX.
+Mercurial é principalmente um programa de linha de comando.
+Todas operações do Mercurial são chamadas através de palavras chave de opções para o programa controlador hg, uma 
+referência para o símbolo químico do elemento Mercúrio.
 
