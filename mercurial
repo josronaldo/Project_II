@@ -10,4 +10,4 @@ sistemas UNIX.
 Mercurial é principalmente um programa de linha de comando.
 Todas operações do Mercurial são chamadas através de palavras chave de opções para o programa controlador hg, uma 
 referência para o símbolo químico do elemento Mercúrio.
-
+Basicamente, um sistema de controle de versões funciona utilizando o conceito de repositório. O repositório é um arquivo (ou local, dependendo do sistema utilizado) onde todo o histórico de evolução do projeto é armazenado, para cada item que é monitorado pelo sistema.
